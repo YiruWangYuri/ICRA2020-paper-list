@@ -94,7 +94,7 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 - GPO: Global Plane Optimization for Fast and Accurate Monocular SLAM Initialization
 - Large-Scale Volumetric Scene Reconstruction Using LiDAR
 - Topological Mapping for Manhattan-Like Repetitive Environments
--  Structure-Aware COP-SLAM
+- Structure-Aware COP-SLAM
 - Robust RGB-D Camera Tracking Using Optimal Key-Frame Selection
 - Voxgraph: Globally Consistent, Volumetric Mapping Using Signed Distance Function Submaps
 - DeepFactors: Real-Time Probabilistic Dense Monocular SLAM
